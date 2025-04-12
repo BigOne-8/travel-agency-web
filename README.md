@@ -2,7 +2,7 @@
 
 A comprehensive bus ticket booking platform built with Next.js and React, designed for both passengers and bus agencies. This system provides an intuitive interface for users to search, filter, and book bus tickets, while offering agencies powerful tools to manage routes, schedules, drivers, and bookings.
 
-![Bus Ticket Booking System](/placeholder.svg?height=400&width=800&text=Bus+Ticket+Booking+System)
+![Image](https://github.com/user-attachments/assets/d2a6f5e4-341f-4e2f-9085-e8d17ef6c3c6)
 
 ## 🚀 Features
 
